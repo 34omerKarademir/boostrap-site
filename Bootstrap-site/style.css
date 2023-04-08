@@ -1,0 +1,55 @@
+.yazi{
+    font-size: 50px;
+    text-align: center;
+    padding-top: 20px;
+    font-family: Arial;
+}
+.yaziiki{
+    font-size: 17px;
+    text-align: center;
+    font-family: Arial;
+}
+.cizgi{
+    border: solid 1px;
+}
+
+.yaziüc{
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial;
+}
+
+.liste{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.buton{
+    display: flex;
+    justify-content: center;
+}
+.hakkimizda-yazi{
+    font-size: 50px;
+    text-align: center;
+    padding-top: 20px;
+    font-family: Arial;
+    color: blueviolet;
+}
+
+.vizyonyazi{
+    color: rgb(235, 180, 1);
+    font-family: Arial;
+    font-size: 25px;
+}
+.misyonyazi{
+    color: rgb(235, 180, 1);
+    font-family: Arial;
+    font-size: 25px;
+}
+.ürünlerimiz-yazi{
+    font-size: 50px;
+    text-align: center;
+    padding-top: 20px;
+    font-family: Arial;
+    color: blueviolet;
+}
